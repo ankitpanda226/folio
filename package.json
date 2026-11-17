@@ -1,0 +1,20 @@
+{
+  "name": "folio-docs",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.13"
+  },
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "build": "node scripts/build.mjs",
+    "validate": "node scripts/validate-artifact.mjs"
+  },
+  "description": "A collaborative document workspace with rich text, sharing, comments and version history.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ankitpanda226/folio.git"
+  }
+}

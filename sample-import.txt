@@ -1,0 +1,5 @@
+Notes for a thoughtful launch
+
+Make the next step clear.
+Share early and leave useful context.
+Agree on the smallest useful thing to test.
